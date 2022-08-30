@@ -1,0 +1,3 @@
+#### Database changes #### 
+    -> Add "membership_card" table
+    -> Add "coin_point_details" table

@@ -1,0 +1,10 @@
+[21-Mar-2019 09:39:11 UTC] PHP Fatal error:  Call to undefined method Common_model::shop_approve_by_me() in /home/rassolutionbd/public_html/fashion/application/controllers/Profile.php on line 18
+[28-Nov-2020 10:06:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/bbchedub/public_html/fashion/application/views/income_report/report_list_income_expense_person_wise.php on line 81
+[28-Nov-2020 10:18:40 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/bbchedub/public_html/fashion/application/views/income_report/report_list_income_expense_person_wise.php on line 128
+[28-Nov-2020 11:57:42 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ',' or ';' in /home/bbchedub/public_html/fashion/application/views/stock_in/list.php on line 130
+[19-Jul-2021 08:34:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/minagazi/bkshop.minagazi.com/Patshalanew/application/controllers/Dashboard/DashboardController.php on line 504
+[04-Sep-2021 10:44:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/minagazi/patshala.minagazi.com/system/database/drivers/mysqli/mysqli_driver.php on line 305
+[04-Sep-2021 11:03:28 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/minagazi/patshala.minagazi.com/system/database/drivers/mysqli/mysqli_driver.php on line 305
+[12-Sep-2021 19:35:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /home/minagazi/patshala.minagazi.com/system/database/DB_query_builder.php on line 824
+[12-Sep-2021 19:37:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /home/minagazi/patshala.minagazi.com/system/database/DB_query_builder.php on line 824
+[20-Sep-2021 19:48:40 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/minagazi/patshala.minagazi.com/system/libraries/Session/drivers/Session_files_driver.php on line 212

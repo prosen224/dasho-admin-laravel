@@ -1,0 +1,74 @@
+.jobdetails_box{
+     margin: 30px;
+/*    background-color: red;
+*/    height: 95%;
+    /*box-shadow: 1px 10px 15px graytext;*/
+     -moz-box-shadow:0px 2px 6px graytext;
+    -webkit-box-shadow:0px 2px 6px graytext;
+    box-shadow: 0px 2px 6px graytext !important;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    background-color: #EDE7F6;
+    margin: 2px !important;
+  margin-top: 30px !important;
+  margin-bottom:25px !important; 
+  border-bottom: 1px solid #ECEFF1;
+    padding-bottom: 50px;
+    padding-left: 30px;
+/*    padding: 20px;
+*/}
+
+.appl_dash_container{
+  margin: 2px !important;
+  margin-top: 30px !important;
+  margin-bottom:25px !important; 
+}
+.app_dash_main_container{
+    background-color: #EEEEEE;
+}
+.professionals_profile_wrapper{
+    background-color: #EDE7F6;
+}
+.buyer_profile_first{
+    border-bottom: 1px solid #F0FFFF;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    margin-top: 10px;
+    margin-left: -30px !important;
+    margin-right: -15px;
+}
+
+.professionals_img{
+    -moz-transition: all 2s;
+-webkit-transition: all 2s;
+    transition: all 2s;
+    -moz-transform: scale(1);
+-webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+}
+.professionals_img:hover{
+    -moz-transition: all 2s;
+-webkit-transition: all 2s;
+    transition: all 2s;
+    -moz-transform: scale(1.05);
+-webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    opacity: 0.9;
+}
+.professionals_img{
+     -moz-box-shadow:0 0 1px 1px #868686;
+    -webkit-box-shadow:0 0 1px 1px #868686;
+    box-shadow: 0 0 1px 1px #868686 !important;
+}
+
+/*.buyer_profile_review{
+    padding-left: 40px;
+}*/
+.details_box
+{
+    border: 2px solid whitesmoke;
+    padding-left: 50px;
+    padding-bottom: 15px;
+}
